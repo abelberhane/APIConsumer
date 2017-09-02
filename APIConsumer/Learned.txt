@@ -1,0 +1,5 @@
+Things that I have learned:
+
+1) Making scroll boxes multiline
+2) Using the Anchor property on text boxes/fields
+3) 

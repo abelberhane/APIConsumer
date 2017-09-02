@@ -1,0 +1,9 @@
+c:\users\abel\documents\visual studio 2017\Projects\APIConsumer\APIConsumer\bin\Debug\APIConsumer.exe.config
+c:\users\abel\documents\visual studio 2017\Projects\APIConsumer\APIConsumer\bin\Debug\APIConsumer.exe
+c:\users\abel\documents\visual studio 2017\Projects\APIConsumer\APIConsumer\bin\Debug\APIConsumer.pdb
+c:\users\abel\documents\visual studio 2017\Projects\APIConsumer\APIConsumer\obj\Debug\APIConsumer.csprojResolveAssemblyReference.cache
+c:\users\abel\documents\visual studio 2017\Projects\APIConsumer\APIConsumer\obj\Debug\APIConsumer.Form1.resources
+c:\users\abel\documents\visual studio 2017\Projects\APIConsumer\APIConsumer\obj\Debug\APIConsumer.Properties.Resources.resources
+c:\users\abel\documents\visual studio 2017\Projects\APIConsumer\APIConsumer\obj\Debug\APIConsumer.csproj.GenerateResource.Cache
+c:\users\abel\documents\visual studio 2017\Projects\APIConsumer\APIConsumer\obj\Debug\APIConsumer.exe
+c:\users\abel\documents\visual studio 2017\Projects\APIConsumer\APIConsumer\obj\Debug\APIConsumer.pdb
