@@ -7,3 +7,4 @@ I am having difficulty at the moment and am Not really getting any indiciations 
 My next idea is to use a function that populates messages to the output window in Visual studio and research some debugging methods.
 
 
+![alt text](https://github.com/abelberhane/APIConsumer/blob/master/APIConsumer/Images/InitialSH.png?raw=true)
